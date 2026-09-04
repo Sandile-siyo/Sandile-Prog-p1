@@ -1,4 +1,4 @@
-# 📘 RaceDay System – README
+#  RaceDay System – README
 
 ## 📖 Overview
 The **RaceDay system** is a web-based event management platform designed for running and cycling events in South Africa.  
