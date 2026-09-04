@@ -25,7 +25,7 @@ Each table uses **primary keys (PK)** and **foreign keys (FK)** to enforce relat
 
 ---
 
-## 📊 Entity Relationship Diagram (ERD)
+## Entity Relationship Diagram (ERD)
 The ERD shows how entities are connected:
 
 - Organisers manage multiple events.  
