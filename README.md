@@ -37,7 +37,7 @@ This ensures **data integrity** and supports efficient queries (Fowler, 2003).
 
 ---
 
-## 🌐 API Endpoints
+## API Endpoints
 The REST API provides secure access for organisers and participants:
 
 - **Authentication**: Register and login users.  
