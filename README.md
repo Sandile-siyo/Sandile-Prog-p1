@@ -11,7 +11,7 @@ The system is built with:
 
 ---
 
-## 🗂️ Database Design
+## Database Design
 The database contains six core tables:
 
 - **Organiser** – stores organiser details.  
