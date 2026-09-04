@@ -2,7 +2,7 @@
 
 ## Overview
 The **RaceDay system** is a web-based event management platform designed for running and cycling events in South Africa.  
-It allows **organisers** to create and manage events, routes, categories, and results, while **participants** can register, enrol, and track their performance history.  
+It allows **organisers** to create and manage events, routes, categories, and results, while **participants** can register, enrol, and track their performance history
 
 The system is built with:
 - A **relational database** (SQL Server) (Connolly & Begg, 2015)  
