@@ -51,7 +51,7 @@ Role-based access ensures organisers and participants have the correct permissio
 
 ---
 
-## ✅ Example Usage
+## Example Usage
 - A participant registers via `/api/auth/register` and logs in with `/api/auth/login`.  
 - They enrol in an event using `/api/events/{eventId}/enrolments`.  
 - Organisers create events with `/api/events` and record results using `/api/events/{eventId}/results`.  
