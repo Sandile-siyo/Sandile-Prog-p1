@@ -68,7 +68,7 @@ It ensures organisers can manage events professionally, while participants enjoy
 ## References
 - Connolly, T. & Begg, C. (2015) *Database Systems: A Practical Approach to Design, Implementation, and Management*. 6th ed. Harlow: Pearson Education.  
 - Elmasri, R. & Navathe, S.B. (2016) *Fundamentals of Database Systems*. 7th ed. Boston: Pearson  
-- Date, C.J. (2004) *An Introduction to Database Systems*. 8th ed. Boston: Addison-Wesley.  
+- Date, C.J. (2004) *An Introduction to Database Systems*. 8th ed. Boston:
 - Fowler, M. (2003) *UML Distilled: A Brief Guide to the Standard Object Modeling Language*. 3rd ed. Boston: Addison-Wesley.  
 - Fielding, R.T. (2000) *Architectural Styles and the Design of Network-based Software Architectures*. Doctoral dissertation, University of California, Irvine.  
 - Microsoft Docs (2026) *SQL Server Documentation*. Available at: https://learn.microsoft.com/sql/ (Accessed: 4 September 2026).  
