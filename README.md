@@ -59,7 +59,7 @@ Role-based access ensures organisers and participants have the correct permissio
 
 ---
 
-## 🎯 Conclusion
+## Conclusion
 The RaceDay system integrates a **structured database**, a **clear ERD**, and a **role-based API** to provide a complete solution for event management.  
 It ensures organisers can manage events professionally, while participants enjoy a seamless way to register, enrol, and track their race results (Microsoft Docs, 2026).
 
