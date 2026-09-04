@@ -33,7 +33,7 @@ The ERD shows how entities are connected:
 - Participants register for events through the registration entity.  
 - Results are recorded per participant and category.  
 
-This ensures **data integrity** and supports efficient queries (Fowler, 2003).
+This ensures **data integrity** and supports efficient queries (Fowler, 2003)
 
 ---
 
